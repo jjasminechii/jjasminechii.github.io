@@ -18,6 +18,12 @@ what vinyls I might be searching for.
 
 [Lorde - Pure Heroine (2012, Black, LP Vinyl)][pureheroine]
 
+[The 1975 - I Like It When You Sleep, For You Are So Beautiful Yet So Unaware of it][ILWYS]
+
+[Daniel Caesar - Freudian][freudian]
+
+[Flipturn - Shadowglow(2022, Opaque White, 2xLP Vinyl Signed)][shadow]
+
 ## Watchlist
 
 [kissland]: https://www.discogs.com/release/12511980-TheWeeknd-Kiss-Land
@@ -26,3 +32,7 @@ what vinyls I might be searching for.
 [folklore]: https://www.discogs.com/release/21794644-Taylor-Swift-Evermore
 [borntodie]: https://www.discogs.com/release/16005081-Lana-Del-Rey-Born-To-Die
 [pureheroine]: https://www.discogs.com/release/5121876-Lorde-Pure-Heroine
+[ILWYS]: https://www.discogs.com/release/8181037-The-1975-I-Like-It-When-You-Sleep-For-You-Are-So-Beautiful-Yet-So-Unaware-Of-It
+[freudian]: https://www.discogs.com/release/11178947-Daniel-Caesar-Freudian
+[shadow]: https://www.discogs.com/release/25408480-Flipturn-Shadowglow
+
