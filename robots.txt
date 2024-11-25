@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jjasminechii.github.io
+
+# Sitemaps
+Sitemap: https://jjasminechii.github.io/sitemap.xml
