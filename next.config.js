@@ -4,8 +4,11 @@
  * @type {import('next').NextConfig}
  **/
 module.exports = {
+  output: 'export',
+  basePath: '/jjasminechii.github.io', 
+  assetPrefix: './', 
   images: {
-    domains: ['rdl.ink'],
+    unoptimized: true,
   },
   webpack: (config, { isServer }) => {
     if (!isServer) {
