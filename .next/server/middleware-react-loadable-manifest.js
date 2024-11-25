@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST='{"blog/[slug].tsx -> react-notion-x/build/third-party/code":{"id":1794,"files":["static/chunks/794.23722e287c70356e.js"]}}';
