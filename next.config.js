@@ -2,10 +2,10 @@
 const nextConfig = {
   output: 'export',
   images: {
-    unoptimized: true, 
+    unoptimized: true,
   },
-  basePath: '/jjasminechii.github.io',
-  assetPrefix: './', 
+  basePath: '', 
+  assetPrefix: './',
 };
 
 module.exports = nextConfig;
